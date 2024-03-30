@@ -26,7 +26,7 @@ namespace EDnevnik
             cmbGodina.Enabled = false;
             cmbOdeljenje.Enabled = false;
             cmbUcenik.Enabled = false;
-            //cmbOcena.Enabled = false;
+            cmbOcena.Enabled = false;
             cmbOcena.Items.Add(1);
             cmbOcena.Items.Add(2);
             cmbOcena.Items.Add(3);
